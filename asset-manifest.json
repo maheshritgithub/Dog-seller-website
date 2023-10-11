@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/Dog-seller-website/static/js/main.caa3ccfd.js",
+    "static/media/Siberian.jpg": "/Dog-seller-website/static/media/Siberian.15d6b1a5007e5c5c01f7.jpg",
+    "static/media/image2.jpg": "/Dog-seller-website/static/media/image2.57ee2b77754a3ffb23a9.jpg",
+    "static/media/Germanshepard.jpg": "/Dog-seller-website/static/media/Germanshepard.6440d90b9e48312085ad.jpg",
+    "static/media/Pomerian.jpg": "/Dog-seller-website/static/media/Pomerian.ec2082147be6ffc68921.jpg",
+    "static/media/image3.jpg": "/Dog-seller-website/static/media/image3.23de756d06401d10ccd6.jpg",
+    "static/media/Labrator.jpg": "/Dog-seller-website/static/media/Labrator.70c8651bc7318170d3d3.jpg",
+    "static/media/Pug.jpg": "/Dog-seller-website/static/media/Pug.f9a803e226ff4b07bbde.jpg",
+    "static/media/Rot.jpg": "/Dog-seller-website/static/media/Rot.20eef841372f2574753d.jpg",
+    "static/media/image1.jpg": "/Dog-seller-website/static/media/image1.26bbfb534bff221d8de7.jpg",
+    "static/media/Greatdane.jpg": "/Dog-seller-website/static/media/Greatdane.79368d853601269c996a.jpg",
+    "static/media/Healthcheck.jpg": "/Dog-seller-website/static/media/Healthcheck.86ab9cc576c16d433b1c.jpg",
+    "static/media/Dreamdog.jpg": "/Dog-seller-website/static/media/Dreamdog.f7b318c6df87afb6a423.jpg",
+    "static/media/Shin.jpg": "/Dog-seller-website/static/media/Shin.d04e86ae8f5153f5269b.jpg",
+    "static/media/Boxer.jpg": "/Dog-seller-website/static/media/Boxer.79c867db65924dd7e2e2.jpg",
+    "static/media/Lhasa.jpg": "/Dog-seller-website/static/media/Lhasa.478c99b9124ac119a3a1.jpg",
+    "index.html": "/Dog-seller-website/index.html",
+    "main.caa3ccfd.js.map": "/Dog-seller-website/static/js/main.caa3ccfd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.caa3ccfd.js"
+  ]
+}
